@@ -1,4 +1,5 @@
-# Instagram Scraper
+# Instagram Quick Profile Scraper
+# Baixar Fotos instagram (rápido)
 
 Este projeto é um scraper de Instagram que baixa publicações e stories de um perfil específico. Ele utiliza a biblioteca `instaloader` para realizar o scraping e a biblioteca `tkinter` para criar uma interface gráfica.
 
@@ -31,7 +32,8 @@ Este projeto é um scraper de Instagram que baixa publicações e stories de um 
 
 - Caso tenha feito tudo corretamente até aqui, irá ser apresentado essa interface:
 
-  ![arquivo do env](https://github.com/Daviqr1/insta_profile_saver/assets/84293017/0a703254-7db5-4f08-81e4-be03af5e7981)
+  ![aaaaaaaaaaaaaaaaaaaaaaaaaa](https://github.com/Daviqr1/insta_profile_saver/assets/84293017/204b3d1f-8665-4a28-a61c-20d36b8da0c0)
+
 
    2. Após o fim da execução, as imagens já estarão na pasta *Stories* e *publicacoes*
 

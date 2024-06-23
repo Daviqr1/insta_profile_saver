@@ -8,7 +8,7 @@ Este projeto é um scraper de Instagram que baixa publicações e stories de um 
 
 1. Clone o repositório para o seu computador:
 
-   *git clone https://github.com/seu_usuario/instagram-scraper.git*
+   *git clone https://github.com/Daviqr1/insta_profile_saver*
 
 2. Navegue até o diretório do projeto:
 

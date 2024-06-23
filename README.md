@@ -34,3 +34,19 @@ Este projeto é um scraper de Instagram que baixa publicações e stories de um 
   ![arquivo do env](https://github.com/Daviqr1/insta_profile_saver/assets/84293017/0a703254-7db5-4f08-81e4-be03af5e7981)
 
    2. Após o fim da execução, as imagens já estarão na pasta *Stories* e *publicacoes*
+
+
+
+
+##ATENÇÃO 
+
+Este código é apenas para fins de aprendizado, atividades de fins paralelas por meio da utilização desse script nao deverão ser toleradas!
+
+#instagramscrapper
+#baixarperfilinstagram
+#baixarfotosinstagram
+#profilescrapperinstagram
+#tutorial como baixar todas as fotos de um perfil no instagram
+#baixar fotos instagram
+#baixar fotos perfil isntagram
+#baixar fotos blackrat
